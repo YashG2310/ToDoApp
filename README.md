@@ -67,12 +67,5 @@ The server will run on `http://localhost:5000` and the client on `http://localho
 
 ![MERN TODO List App](https://drive.google.com/uc?id=135HfGq09XYieu-1sG9pQeQ41Sx1ytZ1m)
 
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/AtharvaKulkarniIT/mern-todo-app/blob/main/LICENSE) file for details.
 
 
